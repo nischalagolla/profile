@@ -75,12 +75,12 @@ nav ul li a{
 }
 .text-area p{
     line-height: 0px;
-    margin:25px 0px 25px;
+    margin:25px 0px 30px;
 }
 .text-area{
     position: absolute;
-    left:13%;
-    top:42%;
+    left:20%;
+    top:40%;
     transform: translate(-13%,-42%);
 }
 
